@@ -1,0 +1,17 @@
+[33mcommit 57f8751cc918a2ceaa3ff23eda006460ecc8df1e[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: pavlejanjic <pavlejanjic996@gmail.com>
+Date:   Sat May 20 07:24:36 2023 +0200
+
+    added new feature
+
+[33mcommit d13e4eef4f246f18d0bdd520741907d60ca61938[m[33m ([m[1;32mmain[m[33m)[m
+Author: pavlejanjic <pavlejanjic996@gmail.com>
+Date:   Sat May 20 07:10:23 2023 +0200
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 5e06677ba1cb7a588dedb88222d433b59d1c370b[m
+Author: pavle-hue <pavlejanjic@yahoo.com>
+Date:   Sat May 20 06:51:47 2023 +0200
+
+    added test.txt file
